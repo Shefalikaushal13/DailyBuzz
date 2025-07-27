@@ -30,6 +30,7 @@
   </ul>
 </ol>
 
+---
 
 
 ![Screenshot 2024-08-07 225724](https://github.com/user-attachments/assets/0adc6946-46d6-4dd3-8fce-e3c6acae0b09)
@@ -38,4 +39,11 @@
 
 ![Screenshot 2024-08-07 225849](https://github.com/user-attachments/assets/3be9531b-172f-49da-b923-d2f201196006)
 
+---
+
+## ✍️ Author
+**Shefali Kaushal**   
+🔗 [LinkedIn](https://www.linkedin.com/in/shefalikaushal13)  
+🌐 [Portfolio](https://shefali-kaushal-portfolio.netlify.app/)
+💻 [Peerlist](https://peerlist.io/shefalikaushal)
 
